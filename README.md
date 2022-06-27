@@ -1,6 +1,6 @@
 # python_SUMD
 
-Pyhthon driver from Graupner SUMD protocol.
+Python driver from Graupner SUMD protocol.
 
 Based on:
   
